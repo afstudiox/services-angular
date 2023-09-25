@@ -1,5 +1,6 @@
 .card {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
     border: solid 1px #ccc;
     width: 250px;
     height: 350px;
