@@ -4,8 +4,8 @@ import { Component } from '@angular/core';
   selector: 'app-root',
   template: 
     `
-    <app-card></app-card>
     <h1>Aula de Services</h1>
+    <app-card></app-card>
     <router-outlet></router-outlet>
     `,
   styleUrls: ['./app.component.css']
